@@ -1,1 +1,1 @@
-web: gunicorn historia-de-un-programador.wsgi
+web: gunicorn HistoriaDeUnTraderBlog.wsgi
